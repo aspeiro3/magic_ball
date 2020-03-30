@@ -1,6 +1,6 @@
-#### MagicBall
+#### [MagicBall](https://ru.wikipedia.org/wiki/Magic_8_ball)
 
-**MagicBall - это консольная игра написана на языке `Ruby`**
+**[MagicBall](https://ru.wikipedia.org/wiki/Magic_8_ball) - это консольная игра написана на языке `Ruby`**
 
 Принцип игры очень простой. Вы задаете вопрос, запускаете программу и получаете ответ. Все довольно просто!
 
@@ -13,5 +13,3 @@
   2. Набрать в консоли такую команду:
 
      `ruby magic_ball.rb`
-
-[ВикипедиЯ](https://ru.wikipedia.org/wiki/Magic_8_ball)
