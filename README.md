@@ -1,5 +1,3 @@
-#### [MagicBall](https://ru.wikipedia.org/wiki/Magic_8_ball)
-
 **[MagicBall](https://ru.wikipedia.org/wiki/Magic_8_ball) - это консольная игра написана на языке `Ruby`**
 
 Принцип игры очень простой. Вы задаете вопрос, запускаете программу и получаете ответ. Все довольно просто!
