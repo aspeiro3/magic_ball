@@ -13,3 +13,5 @@
   2. Набрать в консоли такую команду:
 
      `ruby magic_ball.rb`
+
+[ВикипедиЯ](https://ru.wikipedia.org/wiki/Magic_8_ball)
